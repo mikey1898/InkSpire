@@ -1,0 +1,5 @@
+{
+  "name": "InkSpire - Tattoo Prompt Architect",
+  "description": "A professional AI tool that generates structured tattoo design prompts for Midjourney, Stable Diffusion, and DALL-E based on keywords and styles.",
+  "requestFramePermissions": []
+}
